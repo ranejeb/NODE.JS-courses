@@ -1,0 +1,3 @@
+D:\Учеба\Node.js\project\online_cinema\obj\Debug\online_cinema.njsprojAssemblyReference.cache
+D:\Учеба\Node.js\project\online_cinema\obj\Debug\online_cinema.njsproj.CoreCompileInputs.cache
+D:\Учеба\Node.js\project\online_cinema\bin\Microsoft.NodejsTools.WebRole.dll
